@@ -1,0 +1,12 @@
+.vscode/
+py27/
+*.pyc
+Icon
+.DS_Store
+
+*.csv
+csvs/
+outputs/html/*.html
+outputs/csv/*.csv
+
+*.zip
